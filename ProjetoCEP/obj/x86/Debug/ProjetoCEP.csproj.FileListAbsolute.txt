@@ -1,0 +1,18 @@
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.exe
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.pdb
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.frmCEP.resources
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.Properties.Resources.resources
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.csproj.GenerateResource.Cache
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.exe
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.pdb
+c:\users\brvalvino-inf171\documents\visual studio 2010\Projects\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.exe.config
+C:\Users\BRVAlvino-Inf171\Documents\Visual Studio 2010\Projects\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.csprojResolveAssemblyReference.cache
+D:\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.exe.config
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.exe
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.pdb
+D:\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.exe
+D:\ProjetoCEP\ProjetoCEP\bin\Debug\ProjetoCEP.pdb
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.csprojResolveAssemblyReference.cache
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.frmCEP.resources
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.Properties.Resources.resources
+D:\ProjetoCEP\ProjetoCEP\obj\x86\Debug\ProjetoCEP.csproj.GenerateResource.Cache
